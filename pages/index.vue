@@ -3,9 +3,8 @@
 </script>
 
 <template>
-    <div class="w-full">
-        <Navbar />
-    </div>
+    <Navbar />
+    <MainPhoto />
 </template>
 
 <style>
